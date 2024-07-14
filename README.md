@@ -1,6 +1,6 @@
 
 #
-# Failed Delivery of OOP SVG Logo Maker
+# A Command Line Interfase Logo Maker (SVG)
 ######
 ![Static Badge](https://img.shields.io/badge/license_by-MIT-blue.svg)
 ###
